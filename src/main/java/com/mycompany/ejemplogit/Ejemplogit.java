@@ -6,7 +6,7 @@ package com.mycompany.ejemplogit;
 
 /**
  *
- * @author juans
+ * @author juan sebastian lenis acosta
  */
 public class Ejemplogit {
 
